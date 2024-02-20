@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Christopher Taylor",
+	"icon": "https://micro.blog/cjt/avatar.jpg",
+	"home_page_url": "https://blog.cjt.io/",
+	"feed_url": "https://blog.cjt.io/feed.json",
+	"items": [
+		
+			{
+				"id": "http://cjt.micro.blog/2024/02/19/starting-fresh.html",
+				"title": "Starting Fresh",
+				"content_html": "<p>Spinning up a <a href=\"https://blog.cjt.io/\">micro blog</a> as an outlet for random thoughts. Most content will be gaming-related, but I’m sure errant tech musings and other generic notions will find purchase here from time to time. No idea how long I’ll stick with it, but at least I’ll have a space to discuss grappling hooks if the need arises.</p>\n",
+				"content_text": "Spinning up a [micro blog](https://blog.cjt.io/) as an outlet for random thoughts. Most content will be gaming-related, but I’m sure errant tech musings and other generic notions will find purchase here from time to time. No idea how long I’ll stick with it, but at least I’ll have a space to discuss grappling hooks if the need arises.\n",
+				"date_published": "2024-02-19T20:25:07-08:00",
+				"url": "https://blog.cjt.io/2024/02/19/starting-fresh.html"
+			}
+	]
+}
